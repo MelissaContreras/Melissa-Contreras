@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/daniela-melissa-contreras-villafuerte-63b9b1136/) 👨🏻‍💻
- - Shoot Me an [Email](mail to:melissacontrerasvillafuerte@gmail.com) 💌
+ - Shoot Me an [Email](mail to :melissacontrerasvillafuerte@gmail.com) 💌
