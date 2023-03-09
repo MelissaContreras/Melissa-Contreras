@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Numpy | Pandas | Scikit Learn | Power BI | Machine Learning
+- 💻 &nbsp; Python | Numpy | Pandas | Scikit Learn | Seaborn | Matplotlib | Machine Learning
 - 🛢 &nbsp; SQL | Power BI
 
 
